@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <title>Heroku Compress</title>
+</head>
+<body>
+    <form action="/success" method="post" enctype="multipart/form-data">
+        <div class="up-area">
+            <input type="file" name="file" class="file">
+            <p class="drag">Drag your files here or click in this area.</p>
+
+            <div class="form__group">
+                <input type="text" class="form__input" id="name"
+                    placeholder="Enter Compression Quality in 1-100 (default:30)" name="comp" />
+                <label for="name" class="form__label">Enter Compression Quality in 1-100 (default:30)</label>
+            </div>
+            <button type="submit" class="btnsub">Upload</button>
+        </div>
+    </form>
+    <script>
+        $(document).ready(function () {
+            $('form input').change(function () {
+                $('form p').text(this.files.length + " file(s) selected");
+            });
+        });
+    </script>
+</body>
+</html>

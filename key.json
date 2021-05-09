@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "image-compression-heroku",
+  "private_key_id": "579137e7bb01987707586fc51358e9026edf8d1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCEMcwY95ARTHvn\nbIKGLHIQPtv35KbmxuVs+X8GS5HwFHKLYSwCjkUutXzc1nEshHv0TcGfF8nN0WAs\nNk+Edo2yQdWCMratCzNthW8+8JiSkAqyxpI2qUvKFQLS32Bhjky7jMnFEe7wq1IN\nAyjH4iSFG/PU2eZdN5pFm3YDCngAKZxT+UITO8PnaJQLf3MLtBVNEv0cgD7Y5afp\niVGnGC3kx2vMoS6zrxIpuoh6Oawp2aundqthqPrIUPYhPJPIGQzLajt5nIP99J51\nuydCP8fjcSNGR0iPf1ATW+SONFZxp7WV7GKGc9wrF97NQ7GyExgsLtX3ZGnSak7Z\n1jyU0hJ7AgMBAAECggEACQR2lito/e0YNKCfxLRKcZZAHghQZESkCMt6IT1NbrGO\nYLiXrnLzAC0sH8pW/QDqja8yKn6OawZBx7JKuU/2+XZpMJDyChrN/sYP4Ry7Y6AE\nws4t0iG5REcroqPPKMhyroZ7iwBeqrcdCTsycHQaJqRR/S6B+tDcqqvgoHN53RTg\ndm7d7TfmKfju/lD6FqZnlYtHDPQR1c9J75p+ut6z1Rl5FoL95gsDHbBOC3v6W88c\nc6e0TR4QRX7/K19nefELWfwxGeOoYtcKws7I1Bi9B6b8W851LLUa2UzmMvxrd5xz\nuEae+1AQTM6L2PcVrqA0VI4oKNO6ScMD3XM/r9PGVQKBgQC5Js4Xp7VRhfVf9uMV\nHQoT2Th/hCi2ShHMiXgbZUn7IiopMc6QMxHIuppavaCZqYnCEPRp1nHfFvMBL59H\nbleu2EPK1FR1jHADXgE9jGuiE4ZpGn26Z9QqOihS/jBXyVTAe3oxGlah7oN0h4O1\nrf6qpDYd+y7zzUgrKB0GPHJG5wKBgQC2x2QfgZxMw/Bil+tlp9twolTUkPoBGyzc\nNjYDh1QDafr2Ywrxl0R9TdS/iy1z+iwben9lM3cqJg5oQL/dquXMhoRvNZntt45r\nvmQuNIWo5Xnb02G8eOkaxfJJjy2vkuIZZVQHVjySvvq1fQrgsFZXcN28I0UAba46\nsBW+V/JpTQKBgH0DQIAkUn7a7hR/hFALLXS9ZDJlL3/1fxMVdq04tL0GEmWCJbCj\nasyXggTmqHtYR5VrETws+PHicu1IFEmMrVN23j8jImvECRWc8UV3fG0Qtd5dbqrf\n1Bc28WcoDcgYPktAk/53hCsN+mBB56JR+vOIsKmJoegnoSTSjtZZFefdAoGAIDQz\nbOWuP0xKn2R7Ajc4D7laTvWYRvedyNL4Y1jFsbBLmnvK4tQvKhC7imAgSw3qFZFY\nvuD5fwCjizTVWV4SDR4qWVnNXDf6LPuntQhmAGMmPFgbIVUAZUo5LUK/3u53Tdgv\nnPdRxt1FWRLGBt6q588oEkz4jGHGz+pUemwOdwUCgYAVgU5F1s9eojyYErsE28Qa\nGnmtXqSShl2F8emzWRPLq89LA75KYb+msnvoJlzMuqyuUJEDTduupmHSctWtHObv\ntY7ypvbm6NQ7Gt25DvgPnHa6O7IrkxcGjFumitERMC7lQUZicCkYm5uwPCHcN59F\nBkiWlWWXeWNn9Yoxe4DMJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bihwm@image-compression-heroku.iam.gserviceaccount.com",
+  "client_id": "118035640511778556342",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bihwm%40image-compression-heroku.iam.gserviceaccount.com"
+}
