@@ -4,8 +4,8 @@ from firebase_admin import credentials, initialize_app, storage,db
 import os
 
 cred = credentials.Certificate("key.json")
-initialize_app(cred, {'storageBucket': 'image-compression-heroku.appspot.com'})
-ref = db.reference("/",url = 'https://image-compression-heroku-default-rtdb.asia-southeast1.firebasedatabase.app/')
+initialize_app(cred, {'storageBucket': '<name of project>.appspot.com'})
+ref = db.reference("/",url = '<insert firebase realtime DB URL>')
 app = Flask(__name__, template_folder='templates')  
 
 
